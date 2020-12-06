@@ -16,6 +16,6 @@ expertise_sectors:
 - Concept/Text
 - Information Design
 expertise_title: Expertise
-heading: WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA.
+heading: A ONE-WOMAN SHOW POWERED BY PASSION. STORYTELLING THROUGH VISUAL IMAGERY.
 title: About Us
 ---
